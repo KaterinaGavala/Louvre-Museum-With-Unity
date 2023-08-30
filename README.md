@@ -1,4 +1,4 @@
-# Louvre-Museum-With-Unity
+# Louvre Museum With Unity
 
 This project represents a museum which includes one room with some of the paintings in the Louvre museum and one room with a screen showing a documentary. Τhere is also a digital supervisor who answers some questions about the museum.  
 Also it has a manual on how to move around the museum and how to interact with the objects.
