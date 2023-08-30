@@ -6,4 +6,11 @@ Also it has a manual on how to move around the museum and how to interact with t
 The room with the screen and the manual : 
 ![Screenshot_1](https://github.com/KaterinaGavala/Louvre-Museum-With-Unity/assets/121763578/16f19278-aa53-4f10-86df-c0d783a9996a)
 
+Digital supervisor :
+![Screenshot_2](https://github.com/KaterinaGavala/Louvre-Museum-With-Unity/assets/121763578/b68bd1cd-c59c-4e17-a010-f1af27057d10)
 
+The room with the paintings :
+![Screenshot_3](https://github.com/KaterinaGavala/Louvre-Museum-With-Unity/assets/121763578/091ee9fb-c9b3-455d-a09c-8b2a0a648bc6)
+
+Informations about the paintings :
+![Screenshot_4](https://github.com/KaterinaGavala/Louvre-Museum-With-Unity/assets/121763578/2683b667-7ebe-4f89-b6a8-fcddafbc15da)
